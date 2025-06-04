@@ -1,0 +1,109 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/register/index",
+			"style": {
+				"navigationBarTitleText": "注册账号",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/forgot-password/index",
+			"style": {
+				"navigationBarTitleText": "找回密码",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "速问",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 50
+			}
+		},
+		{
+			"path": "pages/article/index",
+			"style": {
+				"navigationBarTitleText": "文章详情"
+			}
+		},
+		{
+			"path": "pages/ask/index",
+			"style": {
+				"navigationBarTitleText": "提问",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/answer/index",
+			"style": {
+				"navigationBarTitleText": "回答问题",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/write-answer/index",
+			"style": {
+				"navigationBarTitleText": "写回答",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/message/index",
+			"style": {
+				"navigationBarTitleText": "消息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/index",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/my-questions/index",
+			"style": {
+				"navigationBarTitleText": "我的提问",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my-answers/index",
+			"style": {
+				"navigationBarTitleText": "我的回答",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my-favorites/index",
+			"style": {
+				"navigationBarTitleText": "我的收藏",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/edit-profile/index",
+			"style": {
+				"navigationBarTitleText": "编辑资料",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "速问",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8"
+	}
+}

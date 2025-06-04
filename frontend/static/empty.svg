@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 底部装饰线 -->
+  <rect x="40" y="160" width="120" height="2" rx="1" fill="#e9ecef" />
+  
+  <!-- 空盒子 -->
+  <rect x="60" y="90" width="80" height="70" rx="4" fill="#e7f5ff" stroke="#228be6" stroke-width="2" />
+  
+  <!-- 盒子盖子 -->
+  <path d="M55 90 L100 70 L145 90" fill="none" stroke="#228be6" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- 问号装饰 -->
+  <text x="100" y="130" font-size="40" text-anchor="middle" fill="#228be6" font-family="Arial, sans-serif">?</text>
+  
+  <!-- 搜索图标 -->
+  <circle cx="130" cy="60" r="15" fill="#e6fcf5" stroke="#12b886" stroke-width="2" />
+  <circle cx="130" cy="60" r="8" fill="none" stroke="#12b886" stroke-width="2" />
+  <line x1="140" y1="70" x2="150" y2="80" stroke="#12b886" stroke-width="2" stroke-linecap="round" />
+</svg> 
